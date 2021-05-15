@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 Ask me about **Maths, AI, JavaScript, Accessibility**
+- 💬 Ask me about **Maths, AI, JavaScript, Accessibility, Algorithms**
 - 📝 I regulary write articles on [https://thinkphp.herokuapp.com](https://thinkphp.herokuapp.com)
 - 📫 How to reach me **mergesortv@gmail.com**
+- 😄 Play chess https://www.chess.com/member/thinkphp
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
