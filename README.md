@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
+<h3 align="center"> 📫 How to reach me: mergesortv@gmail.com</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
+
 <!--
 **thinkphp/thinkphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
