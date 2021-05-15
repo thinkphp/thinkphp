@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center"> 📫 How to reach me: </h3>
 
 - 💬 Ask me about **Maths, AI, JavaScript, Accessibility**
 - 📝 I regulary write articles on [https://thinkphp.herokuapp.com](https://thinkphp.herokuapp.com)
