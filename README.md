@@ -1,4 +1,6 @@
 ### Hi there 👋 
+<h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <!--
 **thinkphp/thinkphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
