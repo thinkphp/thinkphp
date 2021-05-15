@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
-<h3 align="center"> 📫 How to reach me: mergesortv@gmail.com</h3>
+<h3 align="center"> 📫 How to reach me: </h3>
+- 💬 Ask me about **Maths, AI, JavaScript, Accessibility**
+- 📫 How to reach me **mergesortv@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
 
 <!--
