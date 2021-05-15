@@ -3,7 +3,9 @@
 <h3 align="center"> 📫 How to reach me: </h3>
 
 - 💬 Ask me about **Maths, AI, JavaScript, Accessibility**
+- 📝 I regulary write articles on https://thinkphp.herokuapp.com (https://thinkphp.herokuapp.com)
 - 📫 How to reach me **mergesortv@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
 
