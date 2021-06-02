@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkphp&layout=compact&hide=html" alt="thinkphp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkphp" alt="thinkphp" /></p>
+
 
 <!--
 **thinkphp/thinkphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
