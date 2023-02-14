@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 - 💬 Ask me about **Maths, AI, JavaScript, Accessibility, Algorithms**
-- 📝 I regulary write articles on [https://thinkphp.herokuapp.com](https://thinkphp.herokuapp.com)
+- 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
 - 📫 How to reach me **mergesortv@gmail.com**
 - 😄 Play chess https://www.chess.com/member/thinkphp
 
