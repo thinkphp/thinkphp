@@ -5,6 +5,7 @@
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
 - 📫 How to reach me **mergesortv@gmail.com**
 - 😄 Play chess https://www.chess.com/member/thinkphp
+- 😄 https://artofproblemsolving.com/community/user/thinkphp
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinkphp" alt="thinkphp" /> </p>
