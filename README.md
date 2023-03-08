@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 Ask me about **Maths, AI, JavaScript, Accessibility, Algorithms**
+- 💬 Ask me about **Algorithms, Superior Algebra, Real Analisys, Vector Spaces, Groups**
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
 - 📫 How to reach me **mergesortv@gmail.com**
 - 🌱 Play chess https://www.chess.com/member/thinkphp
