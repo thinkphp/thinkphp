@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 💬 About **Algorithms, Machine Learning, Superior Algebra, Real Analisys, Monoids, Groups, Rings, Corps, Vector Spaces, Riemann Sum**
+- 💬 Ask me about **Algorithms, Machine Learning, Superior Algebra, Real Analisys, Monoids, Groups, Rings, Corps, Vector Spaces, Riemann Sum**
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
 - 📫 How to reach me **mergesortv@gmail.com**
 - 🌱 Play chess https://www.chess.com/member/thinkphp
