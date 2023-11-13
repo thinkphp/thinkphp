@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Adrian Statescu</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 - 💬 Ask me about **Algorithms, Data Structures, Machine Learning, Deep Learning, Superior Algebra, Monoids, Groups and Subgroups, Rings and Subrings, Homomorphisms and Ideals, Corps, Vector Spaces, Riemann Sums**
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
