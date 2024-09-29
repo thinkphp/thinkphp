@@ -2,7 +2,6 @@
 
 - 💬 Ask me about **Algorithms, Data Structures, Machine Learning, Deep Learning, Neuroscience, Superior Algebra, Monoids, Groups and Subgroups, Rings and Subrings, Homomorphisms and Ideals, Corps, Vector Spaces, Riemann Sums**
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
-- 🌱 Play chess https://www.chess.com/member/thinkphp https://lichess.org/@/thinkphp
 - 🌱 Maths https://artofproblemsolving.com/community/user/thinkphp
 - 📫 How to reach me **mergesortv@gmail.com**
 
