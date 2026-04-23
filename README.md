@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about **Algorithms, Data Structures, Machine Learning, Deep Learning, Neuroscience, Algebra, Monoids, Groups and Subgroups, Rings and Subrings, Homomorphisms and Ideals, Fields, Vector Spaces, Riemann Sums**
+- 💬 Ask me about **Algorithms, Data Structures, Machine Learning, Galois Theory, Neuroscience, Algebra, Calculus, Monoids, Groups and Subgroups, Rings and Subrings, Homomorphisms and Ideals, Fields, Vector Spaces, Riemann Sums**
 
 - 📝 I regulary write articles on [https://thinkphp.github.io/lectures/](https://thinkphp.github.io/lectures/)
 
