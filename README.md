@@ -39,12 +39,22 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+### 🚀 DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ## 💡 Ideas I'm exploring
 
 - **Frontend:** component-based architecture with React and Angular, comparing reactivity models (React hooks vs Vue refs vs Svelte runes vs Angular signals), web components with Lit
 - **Backend:** JavaScript on the server with Node.js and Express, PHP with Laravel, REST and async APIs with FastAPI, enterprise patterns with Spring Boot, rapid prototyping with Flask and Rails, batteries-included development with Django
 - **Database:** relational modeling and indexing with PostgreSQL, document stores with MongoDB and CouchDB (including CouchDB's replication and offline-first sync), caching and fast data structures with Redis
 - **Cloud:** multi-cloud deployment, serverless functions, containers, and CI/CD pipelines across Azure, GCP and AWS
+- **DevOps:** containerizing apps with Docker, orchestration with Kubernetes, infrastructure as code with Terraform, automated CI/CD with GitHub Actions, reverse proxying and load balancing with Nginx on Linux
 
 ## 📝 Writing & Community
 
