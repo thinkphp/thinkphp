@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I'm a developer who loves the intersection of **mathematics and software engineering**. I enjoy building things end to end, from algorithms to cloud deployments.
+I'm interested in the intersection of mathematics and software engineering, with a focus on algorithmic problem-solving, theoretical foundations, and the design of robust software systems. I enjoy translating abstract concepts into practical solutions, from algorithm design to cloud infrastructure.
 
 ## 💬 Ask me about
 
