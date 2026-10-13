@@ -52,7 +52,7 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/thinkphp)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/statescua/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/statescua)
-![UVa Online Judge](https://img.shields.io/badge/UVa_Online_Judge-5C5C5C?style=for-the-badge&logo=acm&logoColor=white)
+
 
 ## 💡 Ideas I'm exploring
 
