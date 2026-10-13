@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm interested in the intersection of mathematics and software engineering, with a focus on algorithmic problem-solving, theoretical foundations, and the design of robust software systems. I enjoy translating abstract concepts into practical solutions, from algorithm design to cloud infrastructure.
+I'm interested in the intersection of mathematics and software engineering, with a focus on algorithmic problem-solving, theoretical foundations, and the design of robust software systems. I enjoy translating abstract concepts into practical solutions, from algorithm design to cloud infrastructure. I am committed to continuous learning, guided by the belief that strong theoretical foundations enable a deeper understanding of new technologies and facilitate their effective adoption.
 
 ## 💬 Ask me about
 
