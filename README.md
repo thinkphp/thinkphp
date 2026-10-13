@@ -18,6 +18,10 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 ![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 
 ### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -31,8 +35,8 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 
 ## 💡 Ideas I'm exploring
 
-- **Frontend:** component-based architecture, comparing reactivity models (React hooks vs Vue refs vs Svelte runes), web components with Lit
-- **Backend:** REST and async APIs with FastAPI, enterprise patterns with Spring Boot, rapid prototyping with Flask and Rails, batteries-included development with Django
+- **Frontend:** component-based architecture with React and Angular, comparing reactivity models (React hooks vs Vue refs vs Svelte runes vs Angular signals), web components with Lit
+- **Backend:** JavaScript on the server with Node.js and Express, PHP with Laravel, REST and async APIs with FastAPI, enterprise patterns with Spring Boot, rapid prototyping with Flask and Rails, batteries-included development with Django
 - **Cloud:** multi-cloud deployment, serverless functions, containers, and CI/CD pipelines across Azure, GCP and AWS
 
 ## 📝 Writing & Community
