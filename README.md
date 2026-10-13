@@ -28,6 +28,12 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white)
+
 ### ☁️ Cloud Computing
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -37,6 +43,7 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 
 - **Frontend:** component-based architecture with React and Angular, comparing reactivity models (React hooks vs Vue refs vs Svelte runes vs Angular signals), web components with Lit
 - **Backend:** JavaScript on the server with Node.js and Express, PHP with Laravel, REST and async APIs with FastAPI, enterprise patterns with Spring Boot, rapid prototyping with Flask and Rails, batteries-included development with Django
+- **Database:** relational modeling and indexing with PostgreSQL, document stores with MongoDB and CouchDB (including CouchDB's replication and offline-first sync), caching and fast data structures with Redis
 - **Cloud:** multi-cloud deployment, serverless functions, containers, and CI/CD pipelines across Azure, GCP and AWS
 
 ## 📝 Writing & Community
