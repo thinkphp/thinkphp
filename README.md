@@ -8,7 +8,7 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 
 **Computer Science:** Algorithms, Data Structures, Machine Learning, Neuroscience
 
-**Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript, PHP, SQL
+**Programming Languages:** C, C++, Rust, Haskell, Scala, Java, Python, JavaScript, TypeScript, PHP
 
 ## 🛠️ Tech Stack & Interests
 
