@@ -48,6 +48,11 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+### 🏆 Competitive Programming
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![UVa Online Judge](https://img.shields.io/badge/UVa_Online_Judge-5C5C5C?style=for-the-badge&logo=acm&logoColor=white)
+
 ## 💡 Ideas I'm exploring
 
 - **Frontend:** component-based architecture with React and Angular, comparing reactivity models (React hooks vs Vue refs vs Svelte runes vs Angular signals), web components with Lit
@@ -55,6 +60,7 @@ I'm a developer who loves the intersection of **mathematics and software enginee
 - **Database:** relational modeling and indexing with PostgreSQL, document stores with MongoDB and CouchDB (including CouchDB's replication and offline-first sync), caching and fast data structures with Redis
 - **Cloud:** multi-cloud deployment, serverless functions, containers, and CI/CD pipelines across Azure, GCP and AWS
 - **DevOps:** containerizing apps with Docker, orchestration with Kubernetes, infrastructure as code with Terraform, automated CI/CD with GitHub Actions, reverse proxying and load balancing with Nginx on Linux
+- **Competitive Programming:** solving problems on Codeforces, LeetCode and UVa Online Judge, with a focus on graph algorithms, dynamic programming, number theory and efficient data structures
 
 ## 📝 Writing & Community
 
