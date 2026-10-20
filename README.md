@@ -82,9 +82,7 @@ I'm interested in the intersection of mathematics and software engineering, with
 - 📝 I regularly write articles on [thinkphp.github.io/lectures](https://thinkphp.github.io/lectures/)
 - 🌱 Maths: [Art of Problem Solving profile](https://artofproblemsolving.com/community/user/thinkphp)
 
-## 📫 How to reach me
-
-**mergesortv@gmail.com**
+## 📫 How to reach me **mergesortv@gmail.com**
 
 <!--
 **thinkphp/thinkphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
